@@ -1,0 +1,1 @@
+mkdir $HOME/.termux/ ;echo "extra-keys = [['ls','/','git clone','python2','UP','cd','nano'],['clear','CTRL','','LEFT','DOWN','RIGHT','cd /sdcard']]" >> $HOME/.termux/termux.properties && termux-reload-settings && sleep 1 &&logout
